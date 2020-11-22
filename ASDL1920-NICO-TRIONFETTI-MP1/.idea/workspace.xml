@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d70da15-51b1-4dfb-b15e-f34ea8b4ae92" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1TLBDIyF8B48nQyLgOa8kRxcmGd" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="asdl1920mp1" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../asdl1920mp2-traccia" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in asdl1920mp1">
+    <configuration name="All in asdl1920mp1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asdl1920mp1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaTest.testIsFree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asdl1920mp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unicam.cs.asdl1920.mp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unicam.cs.asdl1920.mp1" />
+      <option name="MAIN_CLASS_NAME" value="it.unicam.cs.asdl1920.mp1.AulaTest" />
+      <option name="METHOD_NAME" value="testIsFree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaTest.testRemovePrenotazioniBefore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asdl1920mp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unicam.cs.asdl1920.mp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unicam.cs.asdl1920.mp1" />
+      <option name="MAIN_CLASS_NAME" value="it.unicam.cs.asdl1920.mp1.AulaTest" />
+      <option name="METHOD_NAME" value="testRemovePrenotazioniBefore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaTest.testSatisfiesFacilities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asdl1920mp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unicam.cs.asdl1920.mp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unicam.cs.asdl1920.mp1" />
+      <option name="MAIN_CLASS_NAME" value="it.unicam.cs.asdl1920.mp1.AulaTest" />
+      <option name="METHOD_NAME" value="testSatisfiesFacilities" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestoreAuleTest.testCercaAuleLibere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asdl1920mp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unicam.cs.asdl1920.mp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unicam.cs.asdl1920.mp1" />
+      <option name="MAIN_CLASS_NAME" value="it.unicam.cs.asdl1920.mp1.GestoreAuleTest" />
+      <option name="METHOD_NAME" value="testCercaAuleLibere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in asdl1920mp1" />
+        <item itemvalue="JUnit.AulaTest.testRemovePrenotazioniBefore" />
+        <item itemvalue="JUnit.AulaTest.testIsFree" />
+        <item itemvalue="JUnit.GestoreAuleTest.testCercaAuleLibere" />
+        <item itemvalue="JUnit.AulaTest.testSatisfiesFacilities" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d70da15-51b1-4dfb-b15e-f34ea8b4ae92" name="Default Changelist" comment="" />
+      <created>1573229375360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573229375360</updated>
+      <workItem from="1573229378098" duration="3916000" />
+      <workItem from="1573255388353" duration="5123000" />
+      <workItem from="1573296783797" duration="11339000" />
+      <workItem from="1573345791467" duration="267000" />
+      <workItem from="1573399511315" duration="208000" />
+      <workItem from="1573485261310" duration="5190000" />
+      <workItem from="1573500824549" duration="3442000" />
+      <workItem from="1573544912276" duration="783000" />
+      <workItem from="1573545824204" duration="218000" />
+      <workItem from="1573549624273" duration="2486000" />
+      <workItem from="1573557312953" duration="245000" />
+      <workItem from="1573559391775" duration="444000" />
+      <workItem from="1573580009774" duration="5691000" />
+      <workItem from="1573589437758" duration="7491000" />
+      <workItem from="1573668614639" duration="759000" />
+      <workItem from="1573676627479" duration="5670000" />
+      <workItem from="1573727402631" duration="107000" />
+      <workItem from="1573728098745" duration="1386000" />
+      <workItem from="1573737698899" duration="639000" />
+      <workItem from="1573738434715" duration="140000" />
+      <workItem from="1573893176122" duration="34000" />
+      <workItem from="1573999632387" duration="142000" />
+      <workItem from="1574082911251" duration="290000" />
+      <workItem from="1574182350154" duration="24000" />
+      <workItem from="1574195029677" duration="9000" />
+      <workItem from="1574196447634" duration="49000" />
+      <workItem from="1574256926504" duration="623000" />
+      <workItem from="1574257591902" duration="131000" />
+      <workItem from="1574258080610" duration="285000" />
+      <workItem from="1574258527848" duration="689000" />
+      <workItem from="1574259492855" duration="58000" />
+      <workItem from="1574261287153" duration="649000" />
+      <workItem from="1574262168244" duration="104000" />
+      <workItem from="1574264000691" duration="55000" />
+      <workItem from="1574274214478" duration="114000" />
+      <workItem from="1574274444352" duration="138000" />
+      <workItem from="1574274748632" duration="2850000" />
+      <workItem from="1574280778450" duration="339000" />
+      <workItem from="1574281740513" duration="3590000" />
+      <workItem from="1574294922545" duration="3507000" />
+      <workItem from="1574340336348" duration="9993000" />
+      <workItem from="1574354943609" duration="706000" />
+      <workItem from="1574369220777" duration="123000" />
+      <workItem from="1574421246557" duration="5623000" />
+      <workItem from="1574430719117" duration="54000" />
+      <workItem from="1574430826250" duration="15000" />
+      <workItem from="1574441867222" duration="1878000" />
+      <workItem from="1574444001352" duration="64000" />
+      <workItem from="1574444180569" duration="12000" />
+      <workItem from="1574808864847" duration="122000" />
+      <workItem from="1574887808043" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/asdl1920mp1$AulaTest_testRemovePrenotazioniBefore.ic" NAME="AulaTest.testRemovePrenotazioniBefore Coverage Results" MODIFIED="1573681180099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>it.unicam.cs.asdl1920.mp1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/asdl1920mp1$All_in_asdl1920mp1.ic" NAME="All in asdl1920mp1 Coverage Results" MODIFIED="1574345239084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
